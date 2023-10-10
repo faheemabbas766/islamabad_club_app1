@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776757563448",
+    "project_id": "fir-notificationic",
+    "storage_bucket": "fir-notificationic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776757563448:android:86fca3bfc67e66f946d6cd",
+        "android_client_info": {
+          "package_name": "com.islamabadmemberclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb30TfSZQQuMmAgmNEdVcC9XXVa85Y-pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776757563448:android:56edea2802a147d646d6cd",
+        "android_client_info": {
+          "package_name": "com.islamabadmemberclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb30TfSZQQuMmAgmNEdVcC9XXVa85Y-pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

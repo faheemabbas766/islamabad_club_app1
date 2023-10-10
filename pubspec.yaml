@@ -1,0 +1,83 @@
+name: islamabad_club_app
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  provider: ^6.0.5
+  cached_network_image: ^3.2.1
+  flutter_svg: ^2.0.7
+  flutter_svg_provider: ^1.0.3
+  carousel_slider: ^4.0.0
+  smooth_page_indicator: ^1.0.0+2
+  intl: ^0.18.0
+  google_fonts: any
+  shared_preferences: ^2.2.0
+  fluttertoast: ^8.2.2
+  firebase_core: ^2.15.1
+  firebase_messaging: ^14.6.6
+  flutter_local_notifications: ^15.1.0+1
+  flutter_html: ^3.0.0-beta.2
+  circular_countdown_timer: ^0.2.3
+  image_gallery_saver: ^2.0.3
+  permission_handler: ^11.0.0
+  get: ^4.6.5
+  google_nav_bar: ^5.0.6
+  screenshot: ^2.1.0
+  share: ^2.0.4
+  path_provider: ^2.0.14
+  file_picker: ^5.5.0
+  image_picker: ^1.0.4
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+    - assets/cinema_ticket.jpg
+  fonts: 
+    - family: Montserrat
+      fonts: 
+        - asset: assets/fonts/MontserratBold.ttf
+          weight: 700
+        - asset: assets/fonts/MontserratRegular.ttf
+          weight: 400
+        - asset: assets/fonts/MontserratMedium.ttf
+          weight: 500
+        - asset: assets/fonts/MontserratSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/MontserratRomanSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/MontserratRomanRegular.ttf
+          weight: 400
+        - asset: assets/fonts/MontserratRomanBold.ttf
+          weight: 700
+        - asset: assets/fonts/MontserratRomanMedium.ttf
+          weight: 500
+    - family: Inter
+      fonts: 
+        - asset: assets/fonts/InterMedium.ttf
+          weight: 500
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400
+    - family: Plus Jakarta Sans
+      fonts: 
+        - asset: assets/fonts/PlusJakartaSansRomanSemiBold.ttf
+          weight: 600
+    - family: DM Sans
+      fonts: 
+        - asset: assets/fonts/DMSansRegular.ttf
+          weight: 400
+    - family: Red Hat Display
+      fonts: 
+        - asset: assets/fonts/RedHatDisplayBold.ttf
+          weight: 700
+        - asset: assets/fonts/RedHatDisplayRomanRegular.ttf
+          weight: 400
+        - asset: assets/fonts/RedHatDisplayMedium.ttf
+          weight: 500
